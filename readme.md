@@ -4,7 +4,7 @@
 
 **Быстрый и лёгкий VPN-клиент для Windows на базе Xray-core**
 
-![Версия](https://img.shields.io/badge/версия-0.1.10-8264ff?style=flat-square)
+![Версия](https://img.shields.io/badge/версия-0.1.12-8264ff?style=flat-square)
 ![Платформа](https://img.shields.io/badge/платформа-Windows%2010%2F11-5aa0ff?style=flat-square)
 ![Ядро](https://img.shields.io/badge/xray--core-embedded-46dc96?style=flat-square)
 ![Лицензия](https://img.shields.io/badge/лицензия-proprietary-ffb45a?style=flat-square)
@@ -28,7 +28,6 @@
 - **VMess**
 - **Trojan**
 - **Shadowsocks** (SIP002)
-- **Hysteria2 / hy2**
 - Поддержка **Reality**, **TLS**, **XTLS-Vision** (flow `xtls-rprx-vision`)
 
 ### Подключение
@@ -71,7 +70,7 @@
 
 ### Portable
 
-1. Скачайте `Umbra-0.1.10-win64.zip` из [релизов](../../releases/latest)
+1. Скачайте `Umbra-0.1.12-windows-portable.zip` из [релизов](../../releases/latest)
 2. Распакуйте в любую папку (например, `C:\Umbra\`)
 3. Запустите `Umbra.exe`
 
